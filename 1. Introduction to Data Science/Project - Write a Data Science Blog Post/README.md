@@ -49,7 +49,8 @@ india_pc_2019_simplified.geojson : A constituency level geojson file for india.
 
 ## Results
 
-The findings and related visualisations can be found at the blog post here.
+The findings and related visualisations can be found at the blog post : 
+https://medium.com/@impratiksingh/are-you-a-responsible-voter-lets-find-out-82fae9230201
 
 ## Licensing , Authors and Acknowledgements
 
