@@ -4,9 +4,10 @@ This repository will contains submissions and related contents from my  Udacity 
 ## Table of Content
 1. Installation
 2. Project Motivation
-3. File Description
-4. Results
-5. Licensing , Authors and Acknowledgements
+3. Project Overview
+4. File Description
+5. Results
+6. Licensing , Authors and Acknowledgements
 
 ## Installation
 
@@ -44,7 +45,7 @@ develop a correlation between their performance after they are elected.Once thes
 <ul> Possible next set of actions in this project could be to enable the analysis to drill down to local election results as well  </ul>
 
 ## File Descriptions
-Winners.csv : List of all the winners with the information they submitted during filing their nomination . Details around education , criminality , asset , etc are captured here.
+Winners.csv : List of all the winners with the information they submitted during filing their nomination . Details around education , criminality , asset , etc are captured here.  
 india_pc_2019_simplified.geojson : A constituency level geojson file for india.
 
 ## Results
