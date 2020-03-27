@@ -55,7 +55,7 @@ The findings and related visualisations can be found at the blog post here.
 
 Both data and code is freely avaialable to use.
 
-Winners data was pulled from : https://www.myneta.info/
+Winners data was pulled from : https://www.myneta.info/  
 Geojson file was pulled from : https://github.com/datameet/maps/tree/master/parliamentary-constituencies
 
 
