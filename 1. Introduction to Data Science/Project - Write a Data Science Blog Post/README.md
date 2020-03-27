@@ -10,7 +10,7 @@ This repository will contains submissions and related contents from my  Udacity 
 
 ## Installation
 
-The associated Jupyter Notebook can be executed with Anaconda installation. Python 3+ would be suitable.
+The associated Jupyter Notebook can be executed with Anaconda installation. Python 3+ would be suitable. geopandas will be required plotting geographical maps.
 
 ## Project Motivation 
 
@@ -54,6 +54,9 @@ The findings and related visualisations can be found at the blog post here.
 ## Licensing , Authors and Acknowledgements
 
 Both data and code is freely avaialable to use.
+
+Winners data was pulled from : https://www.myneta.info/
+Geojson file was pulled from : https://github.com/datameet/maps/tree/master/parliamentary-constituencies
 
 
 
